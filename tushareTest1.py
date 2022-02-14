@@ -2,6 +2,7 @@ import pandas as pd
 from common.ConfigLoader import ConfigLoader
 from common.TushareLoader import TushareLoader
 
+
 config = ConfigLoader().getConfig()
 tsLoader = TushareLoader()
 tsLoader.getDailyBar()
