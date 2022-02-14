@@ -1,0 +1,11 @@
+#0开发环境 1测试环境 2生产环境
+RunLevel: 0
+#字典
+Tushare:
+    token: a95fd944fd81751a0feaf1439c8c72f71931a8c9eb339d93ecaf793d
+#字典里面配置list，list里面再字典
+#tushare:
+#    - name: Chen You
+#      age: 3
+#    - name: Ruo Xi
+#      age: 2
